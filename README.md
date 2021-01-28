@@ -14,7 +14,7 @@ This repository consists of image processing and image segmentation for medical 
 
 <p align="center">
   <img width="750" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Image-Processing-for-Medical-Applications/blob/main/images/tumor_image_processing.jpeg">
-  <img width="150" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Image-Processing-for-Medical-Applications/blob/main/images/tumor.jpg">
+  <img width="100" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Image-Processing-for-Medical-Applications/blob/main/images/tumor.jpg">
 </p> 
 
 #### 2. Image Smoothing (Blurring) Operations ![[Code]](https://github.com/worklifesg/Image-Processing-for-Medical-Applications/blob/main/2_image_smoothing.py) 
