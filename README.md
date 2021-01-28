@@ -28,3 +28,17 @@ This repository consists of image processing and image segmentation for medical 
 <p align="center">
   <img width="1000" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Image-Processing-for-Medical-Applications/blob/main/images/tumor_watershed.jpeg">
 </p> 
+
+
+#### 4. Dicom Read Image ![[Code]](https://github.com/worklifesg/Image-Processing-for-Medical-Applications/blob/main/4_dicom_read_image.py) 
+
+<p align="center">
+  <img width="250" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Image-Processing-for-Medical-Applications/blob/main/images/dicom_image.jpeg">
+</p> 
+
+#### 5. Dicom Downsample Image ![[Code]](https://github.com/worklifesg/Image-Processing-for-Medical-Applications/blob/main/5_dicom_downsample.py) 
+
+<p align="center">
+  <img width="250" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Image-Processing-for-Medical-Applications/blob/main/images/dicom_image.jpeg">
+ <img width="250" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Image-Processing-for-Medical-Applications/blob/main/images/dicom_downsample.jpeg">
+</p> 
