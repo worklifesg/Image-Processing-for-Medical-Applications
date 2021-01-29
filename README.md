@@ -5,8 +5,10 @@ This repository consists of image processing and image segmentation for medical 
  - [x] Image pre-processing and segmentation (Brain Tumor MRI)
  - [x] Image Smoothing (Blurring) Operations (Brain Tumor MRI)
  - [x] Image Segmentation - Watershed Algorithm (Brain Tumor MRI)
+ - [x] DICOM images using pydicom
+ - [x] Image Processing using DICOM file
  - [ ] Image Histogram Study (Brain Tumor MRI)
- - [ ] DICOM images using pydicom
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -41,4 +43,10 @@ This repository consists of image processing and image segmentation for medical 
 <p align="center">
   <img width="250" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Image-Processing-for-Medical-Applications/blob/main/images/dicom_image.jpeg">
  <img width="250" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Image-Processing-for-Medical-Applications/blob/main/images/dicom_downsample.jpeg">
+</p> 
+
+#### 6. Image Processing for DICOM file ![[Code]](https://github.com/worklifesg/Image-Processing-for-Medical-Applications/blob/main/Image_processing_DICOM_file.ipynb) 
+
+<p align="center">
+  <img width="1500" alt="java 8 and prio java 8  array review example" img align="center" src ="https://github.com/worklifesg/Image-Processing-for-Medical-Applications/blob/main/images/IM_DICOM.jpeg">
 </p> 
